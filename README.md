@@ -38,3 +38,8 @@ Pasta destinada a armazenar arquivos externos que utilizaremos como referência 
 ### /src
 
 Pasta destinada a armazenar o nosso TCC (o código-fonte, os testes, os dados utilizados, os relatórios, os vídeos, os docs e etc)
+
+
+### /Planejamento
+
+Pasta destinada a armazenar os arquivos contendo o planejamento semanal das atividades do nosso trabalho
