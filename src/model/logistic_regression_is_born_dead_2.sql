@@ -1,7 +1,7 @@
 CREATE OR REPLACE MODEL
 	`tcc-puc-mg-2019.model.logistic_regression_is_born_dead_2`
 OPTIONS (
-	MODEL_TYPE			= 'LOGISTIC_REG',
+	MODEL_TYPE		= 'LOGISTIC_REG',
 	AUTO_CLASS_WEIGHTS	= TRUE,
 	INPUT_LABEL_COLS	= ['is_born_dead']
 ) AS
